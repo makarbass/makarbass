@@ -8,7 +8,7 @@ Also you can call me **Makar** or **Tom**.
 
 **Experience:**
 - 🖥IT:
-    - ```delphi```,```pascal```, ```python``` , ```c```, ```sql```, ```html```, ```css```, ```javascript```, ```git```, ```unix```, ```selenium```
+    - ```delphi```,```pascal```, ```python``` , ```c```, ```sql```, ```html```, ```css```, ```javascript```, ```git```, ```unix```
 - 🎨Design:
     - ```adobe photoshop```, ```adobe illustrator```, ```adobe after effects```, ```figma```, ```fusion360```
 - 🎸Music:
