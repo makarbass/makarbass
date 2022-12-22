@@ -3,7 +3,7 @@ Also you can call me **Makar** or **Tom**.
 
 **Education:**
 - ✅ Bachelor of Information Systems and Technology. (2020)
-- ⏳ Master in Information Systems and Technology. (2020-present)
+- ✅ Master in Information Systems and Technology. (2022)
 - ⏳ School 21 (2021-present)
 
 **Experience:**
