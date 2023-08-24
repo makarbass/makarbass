@@ -1,14 +1,17 @@
 ### Hi, my name is Artem
-Also you can call me **Makar** or **Tom**.
+I am a python developer
 
 **Education:**
 - ✅ Bachelor of Information Systems and Technology. (2020)
 - ✅ Master in Information Systems and Technology. (2022)
-- ⏳ School 21 (2021-present)
+- ⏳ School 21 (2021-2023)
 
 **Experience:**
+- Fullstack Developer in the Moscow Metro
+
+**Skills:**
 - 🖥IT:
-    - ```delphi```,```pascal```, ```python``` , ```c```, ```sql```,```PostgreSQL```, ```html```, ```css```, ```javascript```, ```git```, ```unix```
+    - ```python```, ```Flask```, ```FastAPI```, ```SQLAlchemy```, ```MySQL```,```PostgreSQL```, ```HTML```, ```CSS```, ```JavaScript```
 - 🎨Design:
     - ```adobe photoshop```, ```adobe illustrator```, ```adobe after effects```, ```figma```, ```fusion360```
 - 🎸Music:
