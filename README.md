@@ -4,10 +4,11 @@ I am a python developer
 **Education:**
 - ✅ Bachelor of Information Systems and Technology. (2020)
 - ✅ Master in Information Systems and Technology. (2022)
-- ⏳ School 21 (2021-2023)
+- ❌ School 21 (Ecole42 programm) (2021-2023)
 
 **Experience:**
-- Fullstack Developer in the Moscow Metro
+- Fullstack Developer in the Moscow Metro (2022-2023)
+- Backend Python Developer in Magnit Tech (from 2023)
 
 **Skills:**
 - 🖥IT:
